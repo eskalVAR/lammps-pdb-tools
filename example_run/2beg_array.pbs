@@ -1,0 +1,41 @@
+#!/bin/bash
+#PBS -l walltime=6:00:00,select=20:ncpus=32:mpiprocs=32:mem=16gb
+#PBS -A st-ssrebnik-1
+#PBS -N 2b_go5sr_l
+#PBS -o out_^array_index^.txt
+#PBS -e err_^array_index^.txt
+#PBS -m abe
+#PBS -M EXAMPLE@MAIL.COM
+#PBS -J 0-32:1
+
+module load gcc/7.5.0
+module load python/3.7.10
+module load openmpi
+
+
+temp=("310" "350" "400" "450" "500" "550" "600" "650" "700" "750")
+hbond=("0.05" "0.1" "0.2" "0.3" "0.4" "0.5" "0.6" "0.7" "0.8" "0.9" "1.0")
+hbond_index=$(($PBS_ARRAY_INDEX / ${#temp[@]}))
+temp_index=$(($PBS_ARRAY_INDEX % ${#temp[@]}))
+
+hbond_value=${hbond[$hbond_index]}
+temp_value=${temp[$temp_index]}
+
+cd $PBS_O_WORKDIR
+mkdir 2beg_${hbond_value}_1.0_${temp_value}
+cp 2beg.in 2beg_${hbond_value}_1.0_${temp_value}
+cd 2beg_"$hbond_value"_1.0_"$temp_value"
+touch extra.txt
+echo "variable eps equal $hbond_value" >> extra.txt
+echo "variable T1 equal $temp_value" >> extra.txt
+
+echo Job ID: >> job.info
+echo $PBS_JOBID >> job.info
+echo Job name: >> job.info
+echo $PBS_JOBNAME >> job.info
+echo Array index: >> job.info
+echo $PBS_ARRAY_INDEX >> job.info
+
+mpirun -n 640 ../../../../lmps/src/lmp_mpi -in *.in
+
+# End of file 

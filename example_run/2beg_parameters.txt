@@ -1,0 +1,116 @@
+pair_coeff	1	1	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	2	2	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	3	3	lj/charmm/coul/charmm/implicit	0.03	2.42003727796	0.03	2.42003727796	#
+pair_coeff	4	4	lj/charmm/coul/charmm/implicit	0.022	2.35197261589	0.022	2.35197261589	#
+pair_coeff	5	5	lj/charmm/coul/charmm/implicit	0.028	2.38760856462	0.028	2.38760856462	#
+pair_coeff	6	6	lj/charmm/coul/charmm/implicit	0.045	2.38760856462	0.045	2.38760856462	#
+pair_coeff	7	7	lj/charmm/coul/charmm/implicit	0.034	2.38760856462	0.034	2.38760856462	#
+pair_coeff	8	8	lj/charmm/coul/charmm/implicit	0.024	2.38760856462	0.024	2.38760856462	#
+pair_coeff	9	9	lj/charmm/coul/charmm/implicit	0.11	3.56359487256	0.11	3.56359487256	#
+pair_coeff	10	10	lj/charmm/coul/charmm/implicit	0.07	3.55005321205	0.07	3.55005321205	#
+pair_coeff	11	11	lj/charmm/coul/charmm/implicit	0.032	3.56359487256	0.01	3.38541512893	#
+pair_coeff	12	12	lj/charmm/coul/charmm/implicit	0.056	3.58141284692	0.01	3.38541512893	#
+pair_coeff	13	13	lj/charmm/coul/charmm/implicit	0.056	3.58141284692	0.01	3.38541512893	#
+pair_coeff	14	14	lj/charmm/coul/charmm/implicit	0.078	3.63486677001	0.01	3.38541512893	#
+pair_coeff	15	15	lj/charmm/coul/charmm/implicit	0.07	3.56359487256	0.07	3.56359487256	#
+pair_coeff	16	16	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	17	17	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	3.29632525712	#
+pair_coeff	18	18	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	3.29632525712	#
+pair_coeff	19	19	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	20	20	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	3.02905564168	#
+pair_coeff	21	21	lj/charmm/coul/charmm/implicit	0.1521	3.15378146222	0.1521	3.15378146222	#
+pair_coeff	22	22	lj/charmm/coul/charmm/implicit	0.45	3.56359487256	0.45	3.56359487256	#
+pair_coeff	23	23	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	24	24	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	25	25	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	26	26	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	27	27	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	28	28	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	29	29	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	30	30	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	31	31	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	32	32	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	33	33	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	34	34	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	35	35	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	36	36	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	37	37	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	38	38	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	39	39	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	40	40	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	41	41	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	42	42	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	43	43	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	44	44	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	45	45	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	46	46	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	47	47	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	48	48	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	49	49	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	50	50	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	51	51	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	52	52	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	53	53	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	54	54	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	55	55	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	56	56	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	57	57	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	58	58	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	59	59	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	60	60	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	61	61	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	62	62	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	63	63	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	64	64	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	65	65	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	66	66	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	67	67	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	68	68	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	69	69	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	70	70	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	71	71	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	72	72	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	73	73	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	74	74	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	75	75	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	76	76	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	77	77	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	78	78	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	79	79	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	80	80	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	81	81	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	82	82	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	83	83	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	84	84	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	85	85	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff	86	86	lj/charmm/coul/charmm/implicit	0.12	3.02905564168	0.12	2.49451641079	#
+pair_coeff	87	87	lj/charmm/coul/charmm/implicit	0.2	3.29632525712	0.2	2.76178602624	#
+pair_coeff	88	88	lj/charmm/coul/charmm/implicit	0.046	0.400013524445	0.046	0.400013524445	#
+pair_coeff      89      89      lj/charmm/coul/charmm/implicit  0.0469  2.42992625373   0.0469  2.42992625373   #
+
+
+##### hbond/dreiding/lg for GO-Model Hydrogen Bonds
+# 		 O	N				H
+pair_coeff	 23	24	hbond/dreiding/lj	25	j	${eps}		3.1626905	4	9.0	11.0	90.0 
+pair_coeff	 26	27	hbond/dreiding/lj	28	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 29	30	hbond/dreiding/lj	31	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 32	33	hbond/dreiding/lj	34	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 35	36	hbond/dreiding/lj	37	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 38	39	hbond/dreiding/lj	40	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 41	42	hbond/dreiding/lj	43	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 44	45	hbond/dreiding/lj	46	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 47	48	hbond/dreiding/lj	49	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 50	51	hbond/dreiding/lj	52	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 53	54	hbond/dreiding/lj	55	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 56	57	hbond/dreiding/lj	58	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 59	60	hbond/dreiding/lj	61	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 62	63	hbond/dreiding/lj	64	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 65	66	hbond/dreiding/lj	67	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 68	69	hbond/dreiding/lj	70	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 71	72	hbond/dreiding/lj	73	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 74	75	hbond/dreiding/lj	76	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 77	78	hbond/dreiding/lj	79	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 80	81	hbond/dreiding/lj	82	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 83	84	hbond/dreiding/lj	85	j	${eps}		3.1626905	4	9.0	11.0	90.0
+pair_coeff	 86	87	hbond/dreiding/lj	88	j	${eps}		3.1626905	4	9.0	11.0	90.0
+

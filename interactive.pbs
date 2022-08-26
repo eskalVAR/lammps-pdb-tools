@@ -1,0 +1,6 @@
+#!/bin/bash
+#PBS -l walltime=3:00:00,select=1:ncpus=32:mpiprocs=32:mem=64gb
+#PBS -I
+#PBS -q interactive_cpu
+#PBS -N interactive
+#PBS -A st-ssrebnik-1
